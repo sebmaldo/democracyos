@@ -11,7 +11,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": [],
+  "staff": ["sebmaldo@gmail.com"],
   "allowEmailAliases": true,
   "facebookSignin": false,
   "customSignin": false,
@@ -43,7 +43,7 @@
     "url": "",
     "token": "",
     "mailer": {
-      "name": "The DemocracyOS Team",
+      "name": "El equipo RPP",
       "email": "no-reply@democracyos.org",
       "service": "",
       "auth": {
@@ -109,7 +109,7 @@
   "logo": "/lib/boot/logo.png",
   "logoMobile": "/lib/boot/logo-mobile.png",
   "favicon": "/lib/boot/favicon.ico",
-  "organizationName": "DemocracyOS on GitHub",
+  "organizationName": "República Participativa Proactiva",
   "organizationEmail": "no-reply@democracyos.org",
   "organizationUrl": "https://github.com/DemocracyOS/app",
   "learnMoreUrl": "",

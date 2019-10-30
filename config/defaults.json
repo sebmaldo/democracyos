@@ -2,7 +2,7 @@
   "locale": "en",
   "protocol": "http",
   "warnHTTP": true,
-  "host": "localhost",
+  "host": "rpp-democracy.herokuapp.com",
   "publicPort": 3000,
   "mongoUrl": "mongodb://localhost/DemocracyOS-dev",
   "mongoUsersUrl": "",

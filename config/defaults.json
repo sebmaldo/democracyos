@@ -29,12 +29,6 @@
       "permissions": [ "email" ]
     }
   },
-  "https": {
-    "serverKey": "server.key",
-    "serverCert": "server.crt",
-    "port": 443,
-    "redirect": "normal"
-  },
   "certbot": {
     "key": "",
     "token": ""
